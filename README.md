@@ -1,6 +1,6 @@
 **Practise File**
 
-This file is my first data science project. 
+This file is my first data science project. This project is currently a work in progress, and I will be using my skills gained at University to complete the final stakes of the project.
 
 The data set used was sourced from Kaggle, and contains data regarding house sales.
 
