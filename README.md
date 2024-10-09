@@ -10,5 +10,5 @@ This may not be the most ground breaking or innovative project, but I have used 
 
 This project has been done completely on my own initiative and in my spare time. I have largely used what I have learnt from LinkdIn Learning along with various internet sources and analytical skills that I have develped in my current employment. I have additionally used AI (ChatGPT) to help me plan the project and understand the order of tasks i must complete. 
 
-I have you have any questions or advice, please dont hesitate to message me!
+If have you have any questions or advice, please dont hesitate to message me!
 
